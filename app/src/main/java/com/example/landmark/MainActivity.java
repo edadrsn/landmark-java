@@ -27,14 +27,14 @@ public class MainActivity extends AppCompatActivity {
 
 
         Landmark pisa = new Landmark("PISA", "ITALY", R.drawable.pisa);
-        Landmark eiffel = new Landmark("EIFFEL", "FRANCE", R.drawable.eiffel);
+        Landmark eiffel = new Landmark("EIFFEL TOWER", "FRANCE", R.drawable.eiffel);
         Landmark colosseum = new Landmark("COLOSSEUM", "ITALY", R.drawable.colosseum);
         Landmark big_ben = new Landmark("BIG BEN", "ENGLAND", R.drawable.big_ben_tower);
         Landmark london_bridge = new Landmark("LONDON BRIDGE", "ENGLAND", R.drawable.london_bridge);
         Landmark taj_mahal = new Landmark("TAJ MAHAL", "INDIA", R.drawable.taj_mahal);
         Landmark peri_bacalari = new Landmark("PERI BACALARI", "TURKEY", R.drawable.peri_bacalari);
         Landmark chandeokgung = new Landmark("CHANDEOKGUNG", "KOREA", R.drawable.changdeokgung);
-        Landmark la_sagra_da_familia = new Landmark("LA SAGRA DA FAMILIA", "SPAIN", R.drawable.la_sagrada_familia);
+        Landmark la_sagra_da_familia = new Landmark("LA SAGRA DA\n\t\tFAMILIA", "SPAIN", R.drawable.la_sagrada_familia);
         Landmark louvre_museum = new Landmark("LOUVRE MUSEUM", "FRANCE", R.drawable.louvre_museum);
         Landmark aya_sofia = new Landmark("AYA SOFYA", "TURKEY", R.drawable.ayasofia);
         Landmark cinque_terre = new Landmark("CINQUE TERRE", "ITALY", R.drawable.cinque_terre);
